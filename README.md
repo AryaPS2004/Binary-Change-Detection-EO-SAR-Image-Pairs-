@@ -38,8 +38,9 @@ Key features:
 ---
 
 # Requirements
-
+```
 pip install -r requirements.txt
+```
 ```
 torch==2.11.0
 torchvision==0.26.0
@@ -56,16 +57,21 @@ huggingface_hub==1.14.0
 
 ```
 ## Python Version
+```
 Python 3.13
+```
 
 # Environment Setup
+```
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 ## Installation of pytorch
 CUDA 12.8
+```
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
-
+```
 # Dataset Structure
 ```
 datasets/
@@ -87,13 +93,19 @@ datasets/
 ```
 
 # Training
+```
 python train.py
+```
 
 # Evaluation
+```
 python inference.py
+```
 
 # Model Weights
+```
 https://drive.google.com/file/d/1QNoWkjN3p9VLQ3A64TOGMSOtOFPoxDC9/view?usp=sharing
+```
 
 
 # Results 
@@ -119,6 +131,7 @@ The model shows meaningful EO-SAR multimodal change localization, though general
 
 
 # Citation / References 
+```
 [1]S. Saha, M. Shahzad, P. Ebel and X. X. Zhu, "Supervised Change Detection Using Prechange Optical-SAR and Postchange SAR Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 8170-8178, 2022, doi: 10.1109/JSTARS.2022.3206898.
 keywords: {Optical sensors;Optical imaging;Adaptive optics;Synthetic aperture radar;Radar polarimetry;Optical fiber networks;Feature extraction;Change detection (CD);fusion;multisensor analysis;optical images;Siamese network;synthetic aperture radar (SAR)},
 
@@ -128,6 +141,7 @@ keywords: {Optical sensors;Optical imaging;Adaptive optics;Synthetic aperture ra
 keywords: {Synthetic aperture radar;Benchmark testing;Mutual information;Indexes;Earth;Random variables;Gaussian distribution;Change detection;change simulation;information similarity measure;synthetic aperture radar (SAR);Change detection;change simulation;information similarity measure;synthetic aperture radar (SAR)},
 
 [4]Wei, J., Zhang, Y., Wu, H., & Cui, B. (2020). An Efficient Change Detection for Large SAR Images Based on Modified U-Net Framework. Canadian Journal of Remote Sensing, 46(3), 272–294. https://doi.org/10.1080/07038992.2020.1783993
+```
 
 [5]M. -E. Pegia, B. Þ. Jónsson, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis and I. Kompatsiaris, "Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 3766-3781, 2025, doi: 10.1109/JSTARS.2024.3522350.
 keywords: {Image resolution;Noise;Training;Remote sensing;Feature extraction;Earth;Bayes methods;Accuracy;Transformers;Roads;Change detection;deep learning;satellite data},
