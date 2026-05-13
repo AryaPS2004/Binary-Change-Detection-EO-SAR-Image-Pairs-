@@ -40,7 +40,7 @@ Key features:
 # Requirements
 
 pip install -r requirements.txt
-
+```
 torch==2.11.0
 torchvision==0.26.0
 numpy==2.4.4
@@ -54,6 +54,7 @@ scikit-learn==1.7.1
 timm==1.0.27
 huggingface_hub==1.14.0
 
+```
 ## Python Version
 Python 3.13
 
@@ -66,6 +67,7 @@ CUDA 12.8
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 
 # Dataset Structure
+```
 datasets/
 │
 ├── train/
@@ -82,7 +84,7 @@ datasets/
     ├── pre-event/
     ├── post-event/
     └── target/
-
+```
 
 # Training
 python train.py
