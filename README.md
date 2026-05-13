@@ -141,8 +141,8 @@ keywords: {Optical sensors;Optical imaging;Adaptive optics;Synthetic aperture ra
 keywords: {Synthetic aperture radar;Benchmark testing;Mutual information;Indexes;Earth;Random variables;Gaussian distribution;Change detection;change simulation;information similarity measure;synthetic aperture radar (SAR);Change detection;change simulation;information similarity measure;synthetic aperture radar (SAR)},
 
 [4]Wei, J., Zhang, Y., Wu, H., & Cui, B. (2020). An Efficient Change Detection for Large SAR Images Based on Modified U-Net Framework. Canadian Journal of Remote Sensing, 46(3), 272–294. https://doi.org/10.1080/07038992.2020.1783993
-```
 
 [5]M. -E. Pegia, B. Þ. Jónsson, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis and I. Kompatsiaris, "Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 3766-3781, 2025, doi: 10.1109/JSTARS.2024.3522350.
 keywords: {Image resolution;Noise;Training;Remote sensing;Feature extraction;Earth;Bayes methods;Accuracy;Transformers;Roads;Change detection;deep learning;satellite data},
+```
 
