@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+rasterio
+albumentations
+matplotlib
+scikit-learn
+tqdm
+pyyaml
+segmentation-models-pytorch
+scipy
+einops
